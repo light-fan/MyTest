@@ -10,6 +10,10 @@ public class HelloWorld {
 	}
 	
 	public void fun() {
-		
+		System.out.println("I have a dream!");
+	}
+	
+	public void play() {
+		System.out.println("playbaseketeball!");
 	}
 }
